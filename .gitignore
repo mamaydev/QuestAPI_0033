@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# folder contoh (screenshot & php) tidak untuk di-commit
+/contoh/
